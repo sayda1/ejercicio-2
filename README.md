@@ -7,6 +7,7 @@ Inicio:sacar promedio
 - numero3
 - promedio
 - suma
+
 ## Proceso
 - Pedir tres numeros
 - Sumar los tres numeros ingresados
